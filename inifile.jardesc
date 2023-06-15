@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<jardesc>
+    <jar path="L:/Apps/inifile8-2.0.19.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/inifile/inifile.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" manifestLocation="/inifile/manifest.mf" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=inifile/&lt;doc.com"/>
+        <javaElement handleIdentifier="=inifile/&lt;com"/>
+        <file path="/inifile/license.txt"/>
+        <javaElement handleIdentifier="=inifile/&lt;com.rkw"/>
+        <javaElement handleIdentifier="=inifile/&lt;doc.com.rkw"/>
+        <javaElement handleIdentifier="=inifile/&lt;doc"/>
+        <javaElement handleIdentifier="=inifile/&lt;doc.resources"/>
+    </selectedElements>
+</jardesc>

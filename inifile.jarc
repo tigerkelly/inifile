@@ -1,0 +1,15 @@
+; Comments start with a semicolon.
+; Sections can be repeated but not a good idea.
+; Section name and key name make a unique key, so Section [foo] key1=value1 is
+;   different from Section [bar] key1=value2
+; Rules Section and start with capital letter and no spaces.
+; Optionally each word in a section name is capitalized.  (ex: [WindowParts])
+; Value names in a section start with a lower case letter and no spaces.
+; Optionally each word in a value name is capitalized. (ex: langScreen=value)
+
+[JarFiles]
+	inifile-1.1.4.jar = E:\tabby\inifile-1.1.4.jar
+
+[Settings]
+	buildDir = C:/Program Files/Jarc/build/inifile
+	className = rkw.IniFile
